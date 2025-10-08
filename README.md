@@ -55,11 +55,16 @@ This project helps:
 
 ---
 
-## 🖥️ Projects & Contact
-- GitHub: [Iniiyavan](https://github.com/Iniiyavan) 🐙  
-- LinkedIn: [Iniiyavan](https://www.linkedin.com/in/iniyavan-m-501b782b3) 🔗  
-- Portfolio: [My Portfolio](#) 💼  
-- Email: [iniyavanoff@gmail.com](mailto:iniyavanoff@gmail.com) 📧  
+##  🖥️ Projects
+[**Groom Goo**](https://github.com/Iniiyavan/Groom-Goo/blob/main/README.md)
+
+[**Dream Aura**](https://github.com/Iniiyavan/Dream-Aura/blob/main/README.md)
+
+[**Haemocross**](https://github.com/Iniiyavan/HaemoCross/blob/main/README.md)
+
+[**Gesture Control Car**](https://github.com/Iniiyavan/Gesture-Control/blob/main/README.md)
+
+[**Traffic Signal Helmet Compilance**](https://github.com/Iniiyavan/Traffic-Signal-Helmet-Compilance/blob/main/README.md)
 
 ---
 
